@@ -1,4 +1,3 @@
----
 # 🧩 8 Puzzle Game using Pygame
 
 A simple yet interactive **8 Puzzle Game built using Python and Pygame**.
