@@ -70,15 +70,6 @@ You move tiles by sliding them into the empty space.
 
 ---
 
-# 🏗️ Project Structure
-
-```
-8-puzzle-game
-│
-├── puzzle_game.py
-├── README.md
-└── assets
-     └── output.png
 ```
 
 ---
