@@ -1,4 +1,6 @@
-🧩 8 Puzzle Game using Pygame
+---
+
+# 🧩 8 Puzzle Game using Pygame
 
 A simple yet interactive **8 Puzzle Game built using Python and Pygame**.
 The game consists of a **3 × 3 sliding puzzle** where numbered tiles must be arranged in the correct order by sliding them into the empty space.
@@ -12,14 +14,16 @@ This project demonstrates:
 
 ---
 
-# 🎮Game Preview
-<img width="337" height="357" alt="image" src="https://github.com/user-attachments/assets/5418fd4a-987e-4881-ba1c-bb31b9e90824" />
+# 🎮 Game Preview
+"https://github.com/user-attachments/assets/5418fd4a-987e-4881-ba1c-bb31b9e90824" 
 
 ```
+
 ```
+
 Example:
 
-<img width="325" height="359" alt="image" src="https://github.com/user-attachments/assets/942b868d-d2e8-46c7-a9c5-0a67a4be137e" />
+https://github.com/user-attachments/assets/942b868d-d2e8-46c7-a9c5-0a67a4be137e
 
 ---
 
@@ -67,26 +71,42 @@ You move tiles by sliding them into the empty space.
 🧩 Smooth tile swapping logic
 
 ---
+
+# 🏗️ Project Structure
+
+```
+8-puzzle-game
+│
+├── puzzle_game.py
+├── README.md
+└── assets
+     └── output.png
 ```
 
-🧪Technologies Used
+---
+
+# 🧪 Technologies Used
 
 * **Python**
 * **Pygame**
 * **Random module**
 
-💻Installation & Setup
+---
+
+# 💻 Installation & Setup
 
 ### 1️⃣ Install Python
 
 Download Python from
 [https://www.python.org/downloads/](https://www.python.org/downloads/)
 
+---
 
 ### 2️⃣ Install Pygame
 
 Run the following command:
 
+```bash
 pip install pygame
 ```
 
@@ -100,7 +120,7 @@ python puzzle_game.py
 
 ---
 
-# 🧩How the Game Works
+# 🧩 How the Game Works
 
 ### 1️⃣ Puzzle Generation
 
@@ -167,7 +187,7 @@ This gives the game a **clean modern appearance**.
 
 ---
 
-# 🚀Future Improvements
+# 🚀 Future Improvements
 
 Possible enhancements:
 
@@ -207,3 +227,6 @@ If you'd like to improve the game:
 # ⭐ If you like this project
 
 Give the repository a ⭐ on GitHub!
+
+---
+
