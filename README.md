@@ -13,7 +13,7 @@ This project demonstrates:
 ---
 
 # 🎮 Game Preview
-"https://github.com/user-attachments/assets/5418fd4a-987e-4881-ba1c-bb31b9e90824" 
+<img width="330" height="355" alt="image" src="https://github.com/user-attachments/assets/a95663e3-21f2-4f2f-b33a-561445028dab" />
 
 ```
 
@@ -21,7 +21,7 @@ This project demonstrates:
 
 Example:
 
-https://github.com/user-attachments/assets/942b868d-d2e8-46c7-a9c5-0a67a4be137e
+<img width="337" height="357" alt="image" src="https://github.com/user-attachments/assets/5b42c236-9103-4be5-b24d-d8bf7146324e" />
 
 ---
 
