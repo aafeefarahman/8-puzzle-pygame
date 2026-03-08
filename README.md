@@ -69,8 +69,6 @@ You move tiles by sliding them into the empty space.
 ---
 ```
 
----
-
 # 🧪Technologies Used
 
 * **Python**
