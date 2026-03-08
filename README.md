@@ -1,4 +1,4 @@
-🧩 8 Puzzle Game using Pygame
+#🧩 8 Puzzle Game using Pygame
 
 A simple yet interactive **8 Puzzle Game built using Python and Pygame**.
 The game consists of a **3 × 3 sliding puzzle** where numbered tiles must be arranged in the correct order by sliding them into the empty space.
