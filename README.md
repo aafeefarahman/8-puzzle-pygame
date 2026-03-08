@@ -75,8 +75,6 @@ You move tiles by sliding them into the empty space.
 * **Pygame**
 * **Random module**
 
----
-
 # 💻Installation & Setup
 
 ### 1️⃣ Install Python
@@ -84,13 +82,11 @@ You move tiles by sliding them into the empty space.
 Download Python from
 [https://www.python.org/downloads/](https://www.python.org/downloads/)
 
----
 
 ### 2️⃣ Install Pygame
 
 Run the following command:
 
-```bash
 pip install pygame
 ```
 
