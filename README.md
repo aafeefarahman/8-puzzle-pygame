@@ -66,8 +66,6 @@ You move tiles by sliding them into the empty space.
 🧩 Smooth tile swapping logic
 
 ---
-
-└── output.png
 ```
 
 ---
