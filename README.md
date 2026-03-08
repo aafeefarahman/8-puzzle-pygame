@@ -69,13 +69,13 @@ You move tiles by sliding them into the empty space.
 ---
 ```
 
-# 🧪Technologies Used
+🧪Technologies Used
 
 * **Python**
 * **Pygame**
 * **Random module**
 
-# 💻Installation & Setup
+💻Installation & Setup
 
 ### 1️⃣ Install Python
 
