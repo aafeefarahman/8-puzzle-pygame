@@ -1,4 +1,3 @@
----
 # 🧩 8 Puzzle Game using Pygame
 
 A simple yet interactive **8 Puzzle Game built using Python and Pygame**.
@@ -17,9 +16,9 @@ This project demonstrates:
 <img width="337" height="357" alt="image" src="https://github.com/user-attachments/assets/5418fd4a-987e-4881-ba1c-bb31b9e90824" />
 
 ```
-assets/output.png
 ```
 Example:
+
 <img width="325" height="359" alt="image" src="https://github.com/user-attachments/assets/942b868d-d2e8-46c7-a9c5-0a67a4be137e" />
 ---
 
@@ -215,5 +214,3 @@ If you'd like to improve the game:
 # ⭐ If you like this project
 
 Give the repository a ⭐ on GitHub!
-
----.
