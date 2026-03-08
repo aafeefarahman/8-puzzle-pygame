@@ -20,6 +20,7 @@ This project demonstrates:
 Example:
 
 <img width="325" height="359" alt="image" src="https://github.com/user-attachments/assets/942b868d-d2e8-46c7-a9c5-0a67a4be137e" />
+
 ---
 
 # 🧠 Game Concept
