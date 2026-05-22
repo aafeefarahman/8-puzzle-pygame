@@ -209,9 +209,5 @@ If you'd like to improve the game:
 
 ---
 
-# ⭐ If you like this project
 
-Give the repository a ⭐ on GitHub!
-
----
 
